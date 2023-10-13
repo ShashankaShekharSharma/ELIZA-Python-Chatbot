@@ -40,6 +40,7 @@ import datetime
 import time
 import csv
 import os
+fieldnames = ['Type', 'Text']
 
 #Printing the Historic ELIZA Deisgn
 print('''Welcome to
